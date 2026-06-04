@@ -1,0 +1,14 @@
+{
+	"name": "Orbiverse",
+	"tagline": "Super small game studio that makes games about orbs, hamsters, and whatnot.",
+	"url": "https://orbiverse.io",
+	"ogImage": "/og-logo.png",
+	"author": {
+		"name": "Orbiverse",
+		"email": "hello@orbiverse.io"
+	},
+	"social": {
+		"itch": "https://orbiverse.itch.io",
+		"twitter": ""
+	}
+}

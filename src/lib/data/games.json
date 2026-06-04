@@ -1,0 +1,274 @@
+{
+	"games": [
+		{
+			"id": "battle-orbs",
+			"title": "Battle Orbs",
+			"tagline": "Roguelike arena battler",
+			"description": "Roguelike arena battler. Play in your browser on Itch.io.",
+			"cover": "https://img.itch.zone/aW1nLzI2OTE4NTk4LnBuZw==/original/8Kucko.png",
+			"featured": true,
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/battle-orbs", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["action", "roguelike"],
+			"releaseDate": "2025-01-01"
+		},
+		{
+			"id": "idle-orbs-4",
+			"title": "Idle Orbs: 4",
+			"tagline": "Inventory, battles, hamsters, and idle progression",
+			"description": "An inventory managing, battle filled, hamster adventuring, idle game.",
+			"cover": "https://img.itch.zone/aW1nLzE2MjcyNjcxLnBuZw==/original/jek4Vj.png",
+			"featured": true,
+			"price": 3,
+			"devices": ["windows", "linux"],
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/idle-orbs-4", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["simulation", "idle"],
+			"releaseDate": "2024-01-01"
+		},
+		{
+			"id": "idle-orbs-3",
+			"title": "Idle Orbs: 3",
+			"tagline": "Orb spawning, wall breaking, universe destroying chaos",
+			"description": "An orb spawning, wall breaking, universe destroying, hamster filled game.",
+			"cover": "https://img.itch.zone/aW1nLzEwNDUwMjQ4LnBuZw==/original/rjzINi.png",
+			"featured": true,
+			"price": 3,
+			"devices": ["windows", "linux"],
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/idle-orbs-3", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["simulation", "idle"],
+			"releaseDate": "2023-01-01"
+		},
+		{
+			"id": "idle-orb-2-remastered",
+			"title": "Idle Orbs: 2 Remastered",
+			"tagline": "The Idle Orbs 2 experience, remastered",
+			"description": "Idle Orbs: 2 Remastered — play in your browser on Itch.io.",
+			"cover": "https://img.itch.zone/aW1nLzI2Njc2OTE0LnBuZw==/original/y36ELO.png",
+			"featured": false,
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/idle-orb-2-remastered", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["simulation", "idle"],
+			"releaseDate": "2023-06-01"
+		},
+		{
+			"id": "idle-orbs-2",
+			"title": "Idle Orbs: 2",
+			"tagline": "Even more orbs, satisfaction, and idle?",
+			"description": "The sequel to Idle Orbs. Even more orbs, satistfaction, and... idle?",
+			"cover": "https://img.itch.zone/aW1nLzg1ODk1NDgucG5n/original/EhuINe.png",
+			"featured": false,
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/idle-orbs-2", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["simulation", "idle"],
+			"releaseDate": "2022-01-01"
+		},
+		{
+			"id": "idle-orbs-remastered",
+			"title": "Idle Orbs: Remastered",
+			"tagline": "The original Idle Orbs experience, but better",
+			"description": "The original Idle Orbs experience, but better!",
+			"cover": "https://img.itch.zone/aW1nLzE2MjcyNjkxLnBuZw==/original/tj2eX1.png",
+			"featured": false,
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/idle-orbs-remastered", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["simulation", "idle"],
+			"releaseDate": "2022-06-01"
+		},
+		{
+			"id": "idle-orbs",
+			"title": "Idle Orbs",
+			"tagline": "Satisfying physics and making money",
+			"description": "A game about satisfying physics and making money!",
+			"cover": "https://img.itch.zone/aW1nLzc4MjQwNjIucG5n/original/L9lPsd.png",
+			"featured": false,
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/idle-orbs", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["simulation", "idle"],
+			"releaseDate": "2021-01-01"
+		},
+		{
+			"id": "idle-orbs-tower-merge",
+			"title": "Idle Orbs: Merge Defense",
+			"tagline": "Upgrade and merge towers to defend against waves",
+			"description": "Upgrade and merge towers to defend against waves of enemies.",
+			"cover": "https://img.itch.zone/aW1nLzIwMTYwNjUyLnBuZw==/315x250%23c/kipkn6.png",
+			"featured": false,
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/idle-orbs-tower-merge", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["strategy", "tower-defense"],
+			"releaseDate": "2023-03-01"
+		},
+		{
+			"id": "idle-orbs-factory",
+			"title": "Idle Orbs: Factory",
+			"tagline": "A tycoon-style orb factory",
+			"description": "Run a factory that is reminiscent of a stereotypical roblox tycoon game!",
+			"cover": "https://img.itch.zone/aW1nLzc4OTQ2NjgucG5n/315x250%23c/mKq7kO.png",
+			"featured": false,
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/idle-orbs-factory", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["simulation", "idle"],
+			"releaseDate": "2022-03-01"
+		},
+		{
+			"id": "idle-orbs-tycoon",
+			"title": "Idle Orbs: Tycoon",
+			"tagline": "ECS tech demo turned tycoon game",
+			"description": "A tech demo made to test out an Entity Component System I made.",
+			"cover": "https://img.itch.zone/aW1nLzg2ODU2MDIucG5n/508x254%23mb/rOC6Xu.png",
+			"featured": false,
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/idle-orbs-tycoon", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["simulation", "idle"],
+			"releaseDate": "2022-04-01"
+		},
+		{
+			"id": "idle-orbs-bees",
+			"title": "Idle Orbs: Bees",
+			"tagline": "Get honey!",
+			"description": "Get honey!",
+			"cover": "https://img.itch.zone/aW1nLzI0MTM3Njg5LnBuZw==/508x254%23mb/MoP1D7.png",
+			"featured": false,
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/idle-orbs-bees", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["simulation", "idle"],
+			"releaseDate": "2022-05-01"
+		},
+		{
+			"id": "wizardry-and-ichor",
+			"title": "Wizardry and Ichor",
+			"tagline": "Mana, power, ichor — maybe destroy the universe",
+			"description": "Get Mana, Power, Ichor, and maybe destroy the universe...",
+			"cover": "https://img.itch.zone/aW1nLzg0NzMzODAucG5n/315x250%23c/FkMJ17.png",
+			"featured": false,
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/wizardry-and-ichor", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["simulation", "idle"],
+			"releaseDate": "2022-02-01"
+		},
+		{
+			"id": "click-and-rage-2",
+			"title": "Click and Rage 2: Hue & Saturation",
+			"tagline": "Clicking, raging, and colors",
+			"description": "Another game about clicking, raging, and colors.",
+			"cover": "https://img.itch.zone/aW1nLzEwNjE1MzY2LnBuZw==/original/zZKQDG.png",
+			"featured": false,
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/click-and-rage-2", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["platformer"],
+			"releaseDate": "2021-06-01"
+		},
+		{
+			"id": "click-and-rage",
+			"title": "Click and Rage",
+			"tagline": "Click and possibly rage",
+			"description": "A game where you click and possibly rage.",
+			"cover": "https://img.itch.zone/aW1nLzEwNTcxMjI2LnBuZw==/315x250%23c/I9QMBh.png",
+			"featured": false,
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/click-and-rage", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["platformer"],
+			"releaseDate": "2021-05-01"
+		},
+		{
+			"id": "atomize-the-earth",
+			"title": "Atomize The Earth",
+			"tagline": "Trijam Game Jam — made in 3 hours",
+			"description": "A game made in 3 hours for the Trijam Game Jam.",
+			"cover": "https://img.itch.zone/aW1nLzc5NDI1NDEucG5n/original/0qiUho.png",
+			"featured": false,
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/atomize-the-earth", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["simulation", "game-jam"],
+			"releaseDate": "2020-03-01"
+		},
+		{
+			"id": "idle-walkin",
+			"title": "Idle Walkin'",
+			"tagline": "Walking around the world — made in 3 hours",
+			"description": "A game about walking around the world (that I made in 3 hours).",
+			"cover": "https://img.itch.zone/aW1nLzc5NDgwMTAucG5n/508x254%23mb/lrt3Uk.png",
+			"featured": false,
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/idle-walkin", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["simulation", "game-jam"],
+			"releaseDate": "2020-02-01"
+		},
+		{
+			"id": "7-minute-idle-game",
+			"title": "7 Minute Idle Game",
+			"tagline": "A game made in 7 minutes",
+			"description": "A game I made in 7 minutes.",
+			"cover": "https://img.itch.zone/aW1nLzEwNjU4MzA1LnBuZw==/508x254%23mb/6olqDe.png",
+			"featured": false,
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/7-minute-idle-game", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["simulation", "game-jam"],
+			"releaseDate": "2020-04-01"
+		},
+		{
+			"id": "pen-factori-2",
+			"title": "Pen Factori 2",
+			"tagline": "Remastered factory drawing game",
+			"description": "This is a remastered version of my previous Pen Factori game.",
+			"cover": "https://img.itch.zone/aW1nLzc2ODMwNjAucG5n/original/4Cx9nN.png",
+			"featured": false,
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/pen-factori-2", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["simulation"],
+			"releaseDate": "2020-06-01"
+		},
+		{
+			"id": "oneirophobia-cas-game-jam",
+			"title": "Oneirophobia",
+			"tagline": "CAS Game Jam entry",
+			"description": "Oneirophobia — made for the CAS Game Jam.",
+			"cover": "https://img.itch.zone/aW1nLzU3ODM1OTUucG5n/original/b6msdD.png",
+			"featured": false,
+			"platforms": {
+				"itch": { "url": "https://orbiverse.itch.io/oneirophobia-cas-game-jam", "label": "Itch.io" },
+				"steam": { "url": null, "label": "Steam" }
+			},
+			"tags": ["action", "game-jam"],
+			"releaseDate": "2020-01-01"
+		}
+	]
+}
