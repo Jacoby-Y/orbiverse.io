@@ -5,12 +5,12 @@
 	const games = getAllGames();
 </script>
 
-<div class="page-header">
+<!-- <div class="page-header">
 	<div class="container">
 		<h1 class="page-title">Games</h1>
 		<p class="page-subtitle">Explore our catalog. More titles coming to Steam soon.</p>
 	</div>
-</div>
+</div> -->
 
 <section class="section">
 	<div class="container">
